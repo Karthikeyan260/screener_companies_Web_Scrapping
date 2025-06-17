@@ -1,0 +1,5 @@
+# Ignore output files
+scraper/screener_companies.csv
+data/Company_Ratios.json
+__pycache__/
+*.pyc
