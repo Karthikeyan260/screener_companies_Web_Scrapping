@@ -15,7 +15,7 @@ This project is a professional web scraping toolchain for collecting **company l
 ---
 
 ## 📂 Project Structure
-
+```
 screener-scraper/
 │
 ├── scraper/
@@ -28,7 +28,7 @@ screener-scraper/
 ├── requirements.txt # Python package dependencies
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
